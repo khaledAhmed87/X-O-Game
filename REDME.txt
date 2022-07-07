@@ -1,0 +1,2 @@
+This project is an X and O game with a simple introductory interface
+ for our group that created the project.
